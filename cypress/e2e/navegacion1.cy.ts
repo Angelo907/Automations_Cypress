@@ -21,7 +21,7 @@ describe('Navegacion', () => {
 
   it('Navegacion 2', () => {
     cy.visit('login')
-    cy.log("Estoy en la pagina del login")
+    cy.log("Prueba numero 2 de git")
     cy.get('[data-test="username-input"]')
   });
 });
