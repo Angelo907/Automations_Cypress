@@ -1,4 +1,5 @@
 //haciendo pruebas para aprender git
+//prueba n#2
 describe('Navegacion', () => {
   beforeEach(() => {
     cy.visit('/')
